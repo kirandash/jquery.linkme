@@ -1,1 +1,33 @@
-// JSON Document
+{
+    "name": "linkme",
+    "title": "Linkme jQuery Plugin",
+    "description": "Simple jQuery plugin that allows you to attach a link to any element",
+    "keywords": [
+        "link",
+        "html",
+		"content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Kiran Dash",
+        "url": "http://bgwebagency.com"
+    },
+    "maintainers": [
+        {
+            "name": "Kiran Dash",
+            "email": "kirandash07@gmail.com",
+            "url": "http://bgwebagency.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/kirandash/jquery.linkme/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/kirandash/jquery.linkme",
+    "docs": "https://github.com/kirandash/jquery.linkme/",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
